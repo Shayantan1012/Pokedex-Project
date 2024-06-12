@@ -1,0 +1,10 @@
+.app{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.pokedex{
+  color: black;
+  text-transform: uppercase;
+}

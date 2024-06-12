@@ -1,0 +1,32 @@
+.pokemon-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pokemon-details-height{
+    font-style: oblique;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 10px;
+}
+.pokemon-details-weight{
+    font-style: oblique;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 10px;
+
+}
+.pokemon-details-height{
+    font-style: oblique;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.pokemon-details-name{
+    font-style: oblique;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: xx-large;
+    padding: 10px;
+}
